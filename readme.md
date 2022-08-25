@@ -15,7 +15,7 @@ Took 3 Hours to make, but learn lots of things.
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me]()
+[Click me](https://stalwart-entremet-3d2416.netlify.app)
 
 ### Screenshots
 ___
